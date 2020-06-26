@@ -10,7 +10,8 @@
 // See Lecture 52, part 1
 
 var byeSpeaker ={};
-  byeSpeaker.name=names[name];
+  byeSpeaker.name=names[i];
+  
   
 
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
